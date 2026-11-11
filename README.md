@@ -4,8 +4,6 @@ Generador de micro-poemas que combina al azar **bolivianismos reales** del
 *Diccionario de la lengua española* (23.ª ed., 2014), recopilación de
 **Raúl Rivadeneira Prada**.
 
-Inspirado en [art-words.net](https://www.art-words.net) (Eva Beierheimer &
-Miriam Laussegger), trasladado del lenguaje del arte al habla boliviana.
 
 > ⚠ Proyecto en construcción. El programa cuida la gramática (concordancia de
 > género y número) pero no entiende el significado de las palabras, así que
