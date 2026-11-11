@@ -11,21 +11,8 @@ Generador de micro-poemas que combina al azar **bolivianismos reales** del
 
 ## Archivos
 
-- `index.html` — la página
-- `data.js` — el vocabulario (239 bolivianismos)
-- `bus.png` — imagen de cabecera
+- `index.html` - la página
+- `data.js` -el vocabulario (239 bolivianismos)
+- `bus.png` - imagen de cabecera
 
-## Ver en local
 
-Abrí `index.html` en el navegador (doble clic), o con un servidor:
-
-```bash
-python3 -m http.server 8000
-# luego abrí http://localhost:8000
-```
-
-## Publicar en GitHub Pages
-
-Sube los archivos a un repositorio y activá **Settings → Pages →
-Branch: main / root**. La página quedará en
-`https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/`.
